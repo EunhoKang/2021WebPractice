@@ -1,0 +1,17 @@
+body{
+    font-family: "Helvetica", "Verdana", sans-serif;
+
+}
+h1{
+    font-size: 40pt;
+}
+dl{
+    font-size: 70%;
+}
+dt{
+    font-weight: bold;
+}
+p:first-letter{
+    font-size: 150%;
+    font-weight: bold;
+}
